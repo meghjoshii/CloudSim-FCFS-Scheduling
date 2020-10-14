@@ -12,6 +12,8 @@ Components:
 8. VMM Allocation Policy - It models provisioning policies on how to allocate VMs to hosts.
 9. VM Scheduler - It models the time or space shared, scheduling a policy to allocate to processor cores to VMs.
 
+Results:
+
 ![](images1/g1.PNG)
 
 ![](images1/g2.PNG)
